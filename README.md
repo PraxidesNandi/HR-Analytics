@@ -16,4 +16,5 @@ Attrition by Marital Status
 Slicers
 
 ## Dataset Used 
+<a href= "https://github.com/PraxidesNandi/HR-Analytics/blob/main/HR%20DATA_Excel.xlsx"> Dataset </a>
 
