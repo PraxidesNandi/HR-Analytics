@@ -19,6 +19,6 @@ Slicers
 <a href= "https://github.com/PraxidesNandi/HR-Analytics/blob/main/HR%20DATA_Excel.xlsx"> Dataset </a>
 
 ## Dashboard
-
+<a href = "https://github.com/PraxidesNandi/HR-Analytics/blob/main/HR%20Analytics%20Dashboard.png"> Dashboard </a>
 
 
